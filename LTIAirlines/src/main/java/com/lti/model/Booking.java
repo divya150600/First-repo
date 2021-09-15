@@ -3,6 +3,7 @@ package com.lti.model;
 public class Booking {
 	int bookingNo;
 	Flight flight;
+	String name;
 	
 	public Booking(int bookingNo, Flight flight) {
 		super();
