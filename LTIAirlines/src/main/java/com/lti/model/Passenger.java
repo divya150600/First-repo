@@ -5,6 +5,7 @@ public class Passenger {
 	String passengername;
 	String address;
 	String age;
+	String phone;
 	public int getPassengerid() {
 		return passengerid;
 	}
